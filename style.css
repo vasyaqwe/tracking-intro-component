@@ -45,12 +45,12 @@ html:focus-within {
 
 html,
 body {
+  overflow-x: hidden;
   height: 100%;
 }
 
 /* Set core body defaults */
 body {
-  overflow-x: hidden;
   text-rendering: optimizeSpeed;
   line-height: 1.5;
 }
